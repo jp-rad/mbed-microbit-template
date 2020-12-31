@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# mbed CLI - micro:bit
+/.temp
+/__pycache__
+/BUILD
+/mbed
+/mbed-src
+/microbit
+/.mbed
+/mbed.bld
