@@ -1,7 +1,7 @@
 # mbed-microbit-template
 
 [mbed-microbit-template](https://github.com/jp-rad/mbed-microbit-template)は、GitHubテンプレートであり、C/C++言語を使ってランチェスター大学によって作成されたmicro:bitランタイムへの参照をあらかじめ含んでいます。  
-The mbed-microbit-template is a GitHub template that comes pre-populated with references to it, the micro:bit runtime provides an easy to use environment for programming the BBC micro:bit in the C/C++ language, written by Lancaster University.　　
+The [mbed-microbit-template](https://github.com/jp-rad/mbed-microbit-template) is a GitHub template that comes pre-populated with references to it, the micro:bit runtime provides an easy to use environment for programming the BBC micro:bit in the C/C++ language, written by Lancaster University.　　
 
 ## 概要 Overview
 
